@@ -1,0 +1,11 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Dört İşlem Tahmin Oyunu\Dört İşlem Tahmin Oyunu\obj\Debug\Dört İşlem Tahmin Oyunu.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Dört İşlem Tahmin Oyunu\Dört İşlem Tahmin Oyunu\obj\Debug\Dört İşlem Tahmin Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Dört İşlem Tahmin Oyunu\Dört İşlem Tahmin Oyunu\obj\Debug\Dört_İşlem_Tahmin_Oyunu.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Dört İşlem Tahmin Oyunu\Dört İşlem Tahmin Oyunu\obj\Debug\Dört_İşlem_Tahmin_Oyunu.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Dört İşlem Tahmin Oyunu\Dört İşlem Tahmin Oyunu\obj\Debug\Dört İşlem Tahmin Oyunu.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Dört İşlem Tahmin Oyunu\Dört İşlem Tahmin Oyunu\obj\Debug\Dört İşlem Tahmin Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Dört İşlem Tahmin Oyunu\Dört İşlem Tahmin Oyunu\bin\Debug\Dört İşlem Tahmin Oyunu.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Dört İşlem Tahmin Oyunu\Dört İşlem Tahmin Oyunu\bin\Debug\Dört İşlem Tahmin Oyunu.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Dört İşlem Tahmin Oyunu\Dört İşlem Tahmin Oyunu\bin\Debug\Dört İşlem Tahmin Oyunu.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Dört İşlem Tahmin Oyunu\Dört İşlem Tahmin Oyunu\obj\Debug\Dört İşlem Tahmin Oyunu.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Dört İşlem Tahmin Oyunu\Dört İşlem Tahmin Oyunu\obj\Debug\Dört İşlem Tahmin Oyunu.pdb
